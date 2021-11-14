@@ -36,4 +36,4 @@ def index():
   #         values = [ts,headset.raw_value,headset.attention, headset.meditation] + values
   #         writer.writerow(values)
   #         time.sleep(.5)
-  return "<h1>Yazılım öğrenseydinss...</h1>"
+  return "<h1>Yazılım öğrenseydin...</h1>"
