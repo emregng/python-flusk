@@ -1,6 +1,6 @@
 from flask import Flask
-import csv, time, datetime
-from app import mindwave
+#import csv, time, datetime
+#from app import mindwave
 app= Flask(__name__)
 
 @app.route('/')
