@@ -3,7 +3,7 @@ from __future__ import print_function
 
 import select
 import serial
-# import threading
+import threading
 # from pprint import pprint
 # import time
 # import datetime
