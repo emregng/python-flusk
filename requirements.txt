@@ -1,2 +1,9 @@
 flask
 gunicorn
+csv
+select
+serial
+threading
+pprint
+os
+struct
