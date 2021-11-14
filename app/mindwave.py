@@ -1,8 +1,8 @@
 
 from __future__ import print_function
 
-# import select
-# import serial
+import select
+import serial
 # import threading
 # from pprint import pprint
 # import time
